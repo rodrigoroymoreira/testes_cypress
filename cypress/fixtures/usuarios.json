@@ -1,0 +1,22 @@
+[
+    {
+        "email": "testedeemail1@teste.com.br",
+        "fullName": "Testando o teste1",
+        "userName": "testador1",
+        "password": "tester11"
+    },
+
+    {
+        "email": "testedeemail2@teste.com.br",
+        "fullName": "Testando o teste2",
+        "userName": "testador2",
+        "password": "tester21"
+    },
+
+    {
+        "email": "testedeemail3@teste.com.br",
+        "fullName": "Testando o teste3",
+        "userName": "testador3",
+        "password": "tester31"
+    }
+]

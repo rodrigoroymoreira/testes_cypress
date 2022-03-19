@@ -1,0 +1,14 @@
+{
+  "name": "testes_cypress",
+  "version": "1.0.0",
+  "description": "Primeiros testes com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Rodrigo Moreira",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
